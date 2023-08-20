@@ -1,5 +1,12 @@
 
 # citybicke
+
+https://public.tableau.com/app/profile/khayria/viz/genderbyride/Story4?publish=yes
+
+https://public.tableau.com/app/profile/khayria/viz/Story4_16925510845190/stoy4_gende?publish=yes
+
+
+
 First Dashpord
 https://public.tableau.com/app/profile/khayria/viz/dashboard_mostpopularstation/Dashboard2?publish=yes
 map story
